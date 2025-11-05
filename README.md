@@ -31,7 +31,10 @@ The code is meant to be a simple as possible.
 
 ### Video
 
-<video src="./images/show1.mp4" width="50%"></video>
+
+https://github.com/user-attachments/assets/4a39a703-6ef2-42c6-82ac-68a68b06dcbe
+
+
 
 ### Images
 
