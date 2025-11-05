@@ -1,0 +1,13 @@
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/CodeArea.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/SimpleDarkMode.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/colors/Colors.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/fold/FoldRegion.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/fold/FoldingEditorKit.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/fold/view/FoldingParagraphView.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/intelisense/IntellisenseItem.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/layers/Layer.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/layers/LayerIndex.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/layers/LayerRender.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/lines/LineNumberMode.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/ui/CodePane.java
+/home/hexaredecimal/NetBeansProjects/LibCode/src/main/java/org/libcode/ui/Gutter.java
